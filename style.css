@@ -36,8 +36,8 @@ input {
 
 button {
     padding: 10px;
-    background-color: #b85cb0;
-    color: rgb(243, 172, 216);
+    background-color: #f1a1c7;
+    color: rgb(248, 5, 155);
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -55,10 +55,10 @@ table {
 
 th, td {
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #bd6f9c;
     text-align: left;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #ff78e8;
 }
