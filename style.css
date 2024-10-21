@@ -36,8 +36,8 @@ input {
 
 button {
     padding: 10px;
-    background-color: #f1a1c7;
-    color: rgb(248, 5, 155);
+    background-color: #ff077b;
+    color: rgba(255, 32, 170, 0.788);
     border: none;
     border-radius: 4px;
     cursor: pointer;
