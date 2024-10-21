@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f084d5c9;
     margin: 0;
     padding: 20px;
 }
@@ -8,7 +8,7 @@ body {
 .container {
     max-width: 600px;
     margin: auto;
-    background: #fff;
+    background: #dd77f1cb;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -30,7 +30,7 @@ label {
 input {
     padding: 10px;
     margin-bottom: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #e6afff;
     border-radius: 4px;
 }
 
