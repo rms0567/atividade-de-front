@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #84c5f0c9;
+    background-color: #da84f0c9;
     margin: 0;
     padding: 20px;
 }
@@ -8,10 +8,10 @@ body {
 .container {
     max-width: 600px;
     margin: auto;
-    background: #805fbd9c;
+    background: #f10abfc7;
     padding: 20px;
     border-radius: 15px;
-    box-shadow: 0 0 10px rgba(2, 90, 161, 0.952);
+    box-shadow: 0 0 10px rgba(250, 77, 235, 0.89);
 }
 
 h1, h2 {
@@ -31,21 +31,21 @@ label {
 input {
     padding: 10px;
     margin-bottom: 20px;
-    border: 1px solid #afd2ff;
+    border: 1px solid #f500fd;
     border-radius: 4px;
 }
 
 button {
     padding: 10px;
-    background-color: #719af1;
-    color: rgba(4, 37, 143, 0.788);
+    background-color: #910777;
+    color: rgba(131, 4, 143, 0.788);
     border: none;
     border-radius:20px ;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #5b98f3;
+    background-color: #d656a5;
 }
 
 table {
@@ -56,10 +56,10 @@ table {
 
 th, td {
     padding: 10px;
-    border: 1px solid #282aa7;
+    border: 1px solid #d943df;
     text-align: left;
 }
 
 th {
-    background-color: #9ce0ff;
+    background-color: #e07cd3;
 }
