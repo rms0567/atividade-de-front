@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #da84f0c9;
+    background-color: #f084d5c9;
     margin: 0;
     padding: 20px;
 }
@@ -31,13 +31,13 @@ label {
 input {
     padding: 10px;
     margin-bottom: 20px;
-    border: 1px solid #f500fd;
+    border: 1px solid #f484f8c5;
     border-radius: 4px;
 }
 
 button {
     padding: 10px;
-    background-color: #910777;
+    background-color: #f8b3eb;
     color: rgba(131, 4, 143, 0.788);
     border: none;
     border-radius:20px ;
