@@ -8,10 +8,10 @@ body {
 .container {
     max-width: 600px;
     margin: auto;
-    background: #5fbabdcb;
+    background: #805fbd9c;
     padding: 20px;
     border-radius: 15px;
-    box-shadow: 0 0 10px rgb(250, 172, 227);
+    box-shadow: 0 0 10px rgba(2, 90, 161, 0.952);
 }
 
 h1, h2 {
@@ -37,15 +37,15 @@ input {
 
 button {
     padding: 10px;
-    background-color: #f7a6cc;
-    color: rgba(255, 32, 170, 0.788);
+    background-color: #719af1;
+    color: rgba(4, 37, 143, 0.788);
     border: none;
     border-radius:20px ;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #f35bc0;
+    background-color: #5b98f3;
 }
 
 table {
@@ -56,10 +56,10 @@ table {
 
 th, td {
     padding: 10px;
-    border: 1px solid #bd6f9c;
+    border: 1px solid #6f70bd;
     text-align: left;
 }
 
 th {
-    background-color: #ff78e8;
+    background-color: #9ce0ff;
 }
